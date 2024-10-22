@@ -416,6 +416,7 @@ PRODUCT_PACKAGES += \
     libwms \
     libwqe \
     libwvhidl \
+    libcrypto-v34 \
     libxtadapter \
     ls_nq_client \
     libwvdrmengine \
